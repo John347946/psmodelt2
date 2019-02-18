@@ -47,13 +47,7 @@
         "gigyaloginaddon",
         "gigyabackoffice",
         "odata2webservices",
-        "odata2webservicesfeaturetests",
-        "alicorpbackoffice",
-        "alicorpcore",
-        "alicorpfacades",
-        "alicorpfulfilmentprocess",
-        "alicorpinitialdata",
-        "alicorpstorefront"
+        "odata2webservicesfeaturetests"
     ],
     "useConfig": {
         "properties": [

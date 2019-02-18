@@ -87,7 +87,7 @@
                     },
                     {
                         "name": "alicorpstorefront",
-                        "contextPath": "alicorp"
+                        "contextPath": "/alicorp"
                     },
                     {
                         "name": "acceleratorservices",

@@ -57,9 +57,7 @@
     ],
     "useConfig": {
         "properties": [
-            {
-                "location": "/config/local/local.properties"
-            },
+           
             {
                 "location": "/config/dev/local.properties",
                 "persona": "development"

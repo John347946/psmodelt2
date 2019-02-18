@@ -52,18 +52,7 @@
     "useConfig": {
         "properties": [
            
-            {
-                "location": "/config/dev/local.properties",
-                "persona": "development"
-            },
-            {
-                "location": "/config/staging/local.properties",
-                "persona": "staging"
-            },
-            {
-                "location": "/config/production/local.properties",
-                "persona": "production"
-            }
+          
         ],
         "aspects": [
             {
@@ -98,7 +87,7 @@
                     },
                     {
                         "name": "alicorpstorefront",
-                        "contextPath": ""
+                        "contextPath": "alicorp"
                     },
                     {
                         "name": "acceleratorservices",
